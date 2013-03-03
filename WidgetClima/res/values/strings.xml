@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WidgetClima</string>
+    <string name="menu_settings">Sobre</string>
+    <string name="title_activity_info">WidgetClima</string>    
+    <string name="widget">WidgetClima</string>
+    
+    <string name="temp">--º</string>
+    <string name="cidade">Carregando</string>
+    <string name="estado">--</string>
+    <string name="barra">/</string>
+    <string name="data">- --- ----</string>
+    <string name="icone">Icone</string>
+    <string name="minima">Mínima:</string>
+    <string name="maxima">Máxima:</string>
+    <string name="umidade">Umidade do ar:</string>
+    <string name="vento">Velocidade do vento:</string>
+    <string name="condicao">Condição do Tempo</string>
+    
+    <string name="sobre">
+		\
+		Este projeto foi desenvolvido por Luiz Fernando como 
+		trabalho final do curso de Programação para Dispositivos 
+		Móveis com Android, ministrado por Mauricio José.\n
+		\nJaneiro de 2013
+		\nVersão Atual 1.0
+	</string>
+
+</resources>
