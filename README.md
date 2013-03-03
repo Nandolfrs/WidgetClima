@@ -13,4 +13,4 @@ O trabalho consiste em um widget que contém as informações retiradas do forec
 Screenshots
 -------------
 
-![Alt text](/Screenshots/sample1.jpg) ![Alt text](/Screenshots/sample2.jpg)
+![Alt text](/Screenshots/sample1.jpg)   ![Alt text](/Screenshots/sample2.jpg)
